@@ -1,0 +1,99 @@
+# Paths to the training and validation datasets
+train: C:/Users/Prinshu Kumar/Desktop/IRCounting/dataset/images/train
+val: C:/Users/Prinshu Kumar/Desktop/IRCounting/dataset/images/valid
+test: C:/Users/Prinshu Kumar/Desktop/IRCounting/dataset/images/test
+
+# Number of classes
+nc: 90
+
+names:
+  0: Parle Black Bourbon
+  1: Parle-G
+  2: Parle Fab Bourbon
+  3: Parle-g
+  4: Mario Cashew Biks
+  5: Mario Butter Biks
+  6: Mario Coconut Crunchy
+  7: Parle Happy Happy Choco-chip Cookies
+  8: Parle Monaco
+  9: Haldiram's Navrattan
+  10: Haldiram's Punjabi Tadka
+  11: Haldiram's Nut Cracker
+  12: Everest Rajma Masala
+  13: Everest Chhole Masala
+  14: Everest Kitchen King Masala
+  15: Everest Chaat Masala
+  16: Everest Rajma Masala
+  17: Everest Cumin Powder
+  18: Everest Garam Masala
+  19: Everest Haldi Powder
+  20: Everest Dry Mango
+  21: Everest Black Pepper Powder
+  22: Everest Pani Puri Masala
+  23: Everest Pav Bhaji Masala
+  24: Everest Kasuri Methi
+  25: Everest Shahi Biryani Masala
+  26: Catch Sambhar Masala
+  27: Everest Kashmirilal Powder
+  28: Everest Sabji Masala
+  29: Everest Chicken Masala
+  30: Everest Meat Masala
+  31: Everest Tikhalal Chilli Powder
+  32: Maggi
+  33: Kissan Fresh Tomato Ketchup
+  34: 9am Mixed Fruit Jam
+  35: Tata Salt
+  36: Colgate Strong Teeth
+  37: Colgate Maxfresh Peppermint Ice
+  38: Colgate Maxfresh Spicy Fresh
+  39: Colgate Active Salt
+  40: Dabur Red Paste
+  41: Mamaearth Charcoal Face Scrub
+  42: Mamaearth Vitamin-C Face Scrub
+  43: Mamaearth Honey Malai Face Scrub
+  44: Mamaearth Tea Tree Face Scrub
+  45: Lotus Vitamin-C Sunscreen
+  46: Lotus UV Screen
+  47: Lotus 3-in-1 Sunscreen
+  48: Patanjali Aloe Kanti
+  49: Patanjali Saundarya Face Wash
+  50: Patanjali Honey-Orange Face Wash
+  51: Patanjali Multani Mitti
+  52: Bajaj Almond Drops
+  53: Bajaj Sarson Amla
+  54: Bajaj Amla Aloe Vera
+  55: Real Fruit Juice
+  56: Closeup Toothpaste
+  57: Patanjali Dant Kanti
+  58: Haldiram's Aloo Bhujia
+  59: Nestle Kit-Kat
+  60: Nestle Kit-Kat Crispy Creamy
+  61: Cadbury Dairy Milk 13.2g
+  62: Cadbury Perk
+  63: Cadbury Fuse
+  64: Nestle Munch Maha-Choco
+  65: Cadbury Dairy Milk Fruit & Nut
+  66: Nestle Munch
+  67: Cadbury Dairy Milk Family
+  68: Cadbury Dairy Milk 46g
+  69: Cadbury 5-Star
+  70: Mario Rusk
+  71: Britannia Good Day Butter Biks
+  72: Mario Rusk Rs10/-
+  73: Parle Monaco
+  74: Britannia Good Day Butter Biks 10/-
+  75: Parle Krackjack
+  76: Britannia 50-50 Biscuit
+  77: Oreo
+  78: Appy Fizz 250ml
+  79: Sprite 200ml
+  80: Maaza 600ml
+  81: Frooti 300ml
+  82: Amul Kool 200ml
+  83: Sting Energy
+  84: Fanta 250ml
+  85: Mountain Dew 250ml
+  86: Limca 250ml
+  87: Thums Up
+  88: Amul Lassi
+  89: Real Mixed Fruit Juice
